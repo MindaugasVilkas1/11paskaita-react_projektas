@@ -1,0 +1,98 @@
+.homepage{
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+.a{
+    text-decoration: none;
+}
+.a:hover{
+   text-decoration:underline ;
+   color:white;
+   size: 2px;
+}
+.title{
+    color:yellow;
+}
+.img{
+   height: 280px;
+    width: 100%;
+}
+.titleName{
+    margin-left: 5px;
+    height: 40px;
+}
+.movieTitle{
+    color:white;
+   
+}
+.card{
+    width: 200px;
+    margin: 5px;
+    height: auto;
+    background-color: rgb(43, 42, 42);
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+
+}
+.starIcon{
+    color:yellow;
+    font-size: 1rem;
+}
+.stars{
+    display: flex;
+    height: 30px;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.star{
+    color:white;
+    margin-right: 30px;
+}
+.starOutline{
+    color: rgba(38, 38, 247, 0.76);
+    font-size: 1rem;
+    
+}
+.starOutline:hover{
+    color:white;
+
+}
+.iconButton{
+    background-color: rgb(43, 42, 42);
+    border: none;
+}
+.iconButton:hover{
+    background-color: rgb(52, 51, 51);
+    border-radius: 2px;
+}
+
+.watchlist:hover{
+background-color: rgb(67, 67, 67);
+}
+.watchlistAndIcon{
+margin-top: 10px;
+text-align: center;
+}
+.watchlistAndIcon button{
+    background-color:rgb(52, 51, 51);
+    color:rgba(38, 38, 247, 0.76);
+    width: 90%;
+    text-align: center;
+}
+.addIcon{
+    color:rgba(38, 38, 247, 0.76);
+}
+.trailer {
+margin: 0 auto;
+display:flex;
+justify-content: space-around;
+
+}
+.trailer button{
+    color: white;
+}
+.infoIcon{
+    font-size: 2rem;
+}

@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.carousel-item-padding-40-px{
+  height: 450px;
+  width: 100px;
+}
+.pagrindinisKaruselesDiv{
+  width: 1240px;
+  height: 450px;
+  margin: 0 auto;
+}

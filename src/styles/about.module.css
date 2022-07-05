@@ -1,0 +1,108 @@
+.aboutpage{
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 40px;
+   background-color: rgb(43, 42, 42);
+}
+.movieDetails{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.title{
+    color:white;
+    width: 50%;
+   
+}
+.imdbRating{
+    width: 150px;
+    text-align: center;
+    
+}
+.span{
+color:rgb(160, 157, 157);
+}
+.spanWhite{
+    color:white;
+    font-size:1rem;
+}
+
+.flexButton{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.flexButton div{
+    display: flex;
+    align-items: center;
+}
+.starIcon{
+    color:yellow;
+    font-size: 1.5rem;
+}
+.rateIcon{
+    color: rgba(38, 38, 247, 0.76);
+    font-size: 1.5rem;
+}
+.Rate{
+    color: rgba(38, 38, 247, 0.76);
+    font-size: 1rem; 
+}
+.trendingIcon{
+    border-radius: 15px;
+    border: 2px solid green;
+    color:green;
+    margin-right: 5px;
+}
+.navAbout{
+    text-align: right;
+    margin: 0 auto;
+    width: 90%;
+    margin-bottom: 20px;
+}
+.navAbout a{
+    margin-left: 5px;
+    color: white;
+    text-decoration: none;
+
+}
+.navAbout a:hover{
+    text-decoration: underline;
+}
+.navAbout button{
+    text-decoration: none;
+    color: white;
+}
+.allTopics{
+    font-size: 2rem;
+}
+.photos img{
+    width: 300px;
+    height: 450px;
+}
+
+.foto{
+    width: 300px;
+    height: 450px;
+    margin: 0 auto;
+    padding: 10px;
+}
+.fotoAndVideo{
+    width: 90%;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.videos{
+    width: 800px;
+    height: 450px;
+    margin: 0 auto;
+    padding: 10px;
+}
+.video{
+    width: 800px;
+    height: 450px;
+    margin: 0 auto;
+}
+
